@@ -1,0 +1,15 @@
+{{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+
+{{- if $recent }}
+<div class="widget">
+	<h4 class="widget__title">Information</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+                <img class="widget__link" src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaAxmK9DUOJGfPay87UziNKw-EkMGTkrmgaxBImbjAI1lQ739TbSO9kszggBKH4NMLqmdPQrX6Bai-FHPl8z6erLwhNCMQ=s1600" alt="Di rumah saja">
+            </li>
+		</ul>
+	</div>
+</div>
+{{- end }}
