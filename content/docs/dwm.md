@@ -1,6 +1,9 @@
 ---
 title: Dynamic Window Manager (Suckless)
 date: 2017-04-02
+thumbnail:
+  src: "https://lh3.googleusercontent.com/drive-viewer/AK7aPaAvipME_xtPC5yKv2crvFEzfATHZqiT2ghST_59-1ugaNKxK6gTxUiWWrYz6ve3_rR4a-p3YXWrywhyryBoFDyV52ZVIA=s2560"
+  
 tags:
   - "DWM"
   - "Suckless"
