@@ -11,6 +11,9 @@ menu:
   main:
     name: Notes
     weight: 4
+thumbnail:
+  src: "https://lh3.googleusercontent.com/drive-viewer/AK7aPaA31oG-nkLBChW2iQwk7B3RcrS304AorAPosFVY8myl2VXaPrUzYHGSJRiuH0MqcrCoAiGaV7jMWUupWO-F4LjFh-whrw=s1600"
+  
 ---
 
 <aside>
