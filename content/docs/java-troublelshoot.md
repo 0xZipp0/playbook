@@ -21,7 +21,7 @@ in this case, (Java) can be seen in this documentation [article](https://wiki.ar
 
 <!--more-->
 
-![image](images/uploads/dir.jpg)
+![image](images/dir.jpg)
 
 ### ****Gray window, applications not resizing with WM, menus immediately closing****
 
@@ -36,7 +36,7 @@ There are several things that may help:
 
 See **[[1]](https://wiki.haskell.org/Xmonad/Frequently_asked_questions#Problems_with_Java_applications.2C_Applet_java_console)** for more information.
 
-![image](images/uploads/env.png)
+![image](images/env.png)
 
 ### ****System freezes when debugging JavaFX Applications****
 
@@ -76,4 +76,4 @@ Possible issues / solutions:
 - GTK2 is missing. Install **[gtk2](https://archlinux.org/packages/?name=gtk2)**
 - OpenJFX is missing. Install **[java-openjfx](https://aur.archlinux.org/packages/java-openjfx/)**AUR
 
-![image](images/uploads/term.png)
+![image](images/term.png)
