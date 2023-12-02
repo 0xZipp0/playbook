@@ -1,6 +1,8 @@
 ---
 title: Cyber Security Academy
 date: 2014-04-02
+thumbnail:
+  src: "https://lh3.googleusercontent.com/drive-viewer/AK7aPaDv5XThh95V7TNdPOwVHGqD4-CO6Hbu4s39j8_HRJ8_oTNITQO9wtdm0_u4VGUYuhoA-OZHggigH5AUbi2Eo8kIkMxxVg=s2560"
 tags:
   - "security"
   - "pentesting"

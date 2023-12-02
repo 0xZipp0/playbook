@@ -12,9 +12,8 @@ thumbnail:
 
 Greetings! I'm Yusuf, a passionate full-time learner and a vulnerability analyst. My mission? Strengthening attack surfaces that could potentially wreak havoc. My deep-rooted fascination lies in Information Technology, specifically in fortifying systems against unwarranted intrusion by hackers. To deepen my expertise in this realm, I actively pursued the study of cyber security alongside my formal education. Furthermore, I was fortunate enough to become a part of Surabaya Hacker Link, an esteemed non-profit community that exposed me to invaluable insights and broadened my understanding of cutting-edge security practices.
 
-## 
+## Information
+* [CV](https://read.cv/0xzipp0).
 
-Best Regards:
-
+## Best Regards
 * Thanks to [Surabaya Hacker Link](https://surabayahackerlink.org/).
-* {{< tryhackme >}}
