@@ -9,7 +9,6 @@ tags:
   - "tryhackme"
   - "development"
 categories:
-  - "Development"
   - "tryhackme"
 ---
 

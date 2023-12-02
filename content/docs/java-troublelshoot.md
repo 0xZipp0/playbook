@@ -9,7 +9,6 @@ tags:
   - "Linux"
   - "Arch"
 categories:
-  - "Development"
   - "DWM"
 
 ---

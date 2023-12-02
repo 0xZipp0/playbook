@@ -10,7 +10,6 @@ tags:
   - "Linux"
   - "Arch"
 categories:
-  - "Development"
   - "Suckless"
 ---
 
