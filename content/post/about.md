@@ -17,4 +17,4 @@ Greetings! I'm Yusuf, a passionate full-time learner and a vulnerability analyst
 Best Regards:
 
 * Thanks to [Surabaya Hacker Link](https://surabayahackerlink.org/).
-* <script src="https://tryhackme.com/badge/2369211"></script>
+* {{< tryhackme >}}
