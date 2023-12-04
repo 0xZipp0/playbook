@@ -57,7 +57,7 @@ It's important to note that adding the Kali Linux repository to a non-Kali Linux
 
 3. Run the bash script
 
-   ```sudo bash kali.sh```
+   ```sudo bash ksl.sh```
 
 ## Credit
 KSL (Kelompok Studi Linux) UNIDA Gontor

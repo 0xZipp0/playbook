@@ -1,5 +1,5 @@
 ---
-title: Arch Linux + DWM SUckless
+title: Arch Linux + DWM Suckless
 description: dwm is a dynamic window manager for X.
 date: 2018-04-16
 categories:
