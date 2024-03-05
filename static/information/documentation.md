@@ -1,5 +1,5 @@
  
- ### all commands of this website
+ ### all commands of this website follow just main branch
 
  2584  git status
  2585  git add .
